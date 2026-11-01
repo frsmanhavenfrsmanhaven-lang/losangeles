@@ -1,0 +1,168 @@
+
+{
+  "responses": [
+    {
+      "keywords": [
+        "are transfers open",
+        "transfers",
+        "transfer application",
+        "can i transfer"
+      ],
+      "reply": "📋 **Staff Transfers**\n\nThank you for your interest in transferring to Los Angeles Roleplay!\n\nTransfer availability is determined by our Directorship Team. A staff member will confirm whether transfers are currently open.\n\nPlease provide your current rank, previous server, and relevant experience."
+    },
+    {
+      "keywords": [
+        "staff applications",
+        "how do i become staff",
+        "staff app",
+        "apply for staff"
+      ],
+      "reply": "🛡️ **Staff Applications**\n\nThank you for your interest in joining the Los Angeles Roleplay Staff Team!\n\nApplication availability is announced through our official Discord channels.\n\nPlease check our announcements or wait for a staff member to provide further information."
+    },
+    {
+      "keywords": [
+        "ban appeal",
+        "i got banned",
+        "appeal my ban",
+        "unban me"
+      ],
+      "reply": "⚖️ **Ban Appeals**\n\nWe're sorry to hear about your moderation concern.\n\nPlease provide:\n• Your Roblox username\n• The reason for your ban\n• The approximate date of the punishment\n• Why you believe the punishment should be reconsidered\n\nA staff member will review your request."
+    },
+    {
+      "keywords": [
+        "staff report",
+        "report a staff",
+        "staff abuse",
+        "report moderator"
+      ],
+      "reply": "🚨 **Staff Reports**\n\nWe take reports against staff members seriously.\n\nPlease provide:\n• The staff member's username\n• A detailed explanation\n• Any available evidence\n• The approximate date and time\n\nYour report will be reviewed by authorized personnel."
+    },
+    {
+      "keywords": [
+        "player report",
+        "report player",
+        "report someone",
+        "rule breaker"
+      ],
+      "reply": "🚨 **Player Reports**\n\nThank you for helping maintain a safe roleplay environment!\n\nPlease provide the player's Roblox username, the rule allegedly violated, and any supporting evidence.\n\nA staff member will assist you shortly."
+    },
+    {
+      "keywords": [
+        "when is the next session",
+        "session start",
+        "next session",
+        "when is ss"
+      ],
+      "reply": "🎮 **Session Information**\n\nOur sessions are announced in the designated session channel.\n\nPlease check the latest announcements for session information. Session times depend on host availability."
+    },
+    {
+      "keywords": [
+        "server code",
+        "private server code",
+        "how do i join",
+        "join the server"
+      ],
+      "reply": "🚔 **Joining Los Angeles Roleplay**\n\nTo join our ER:LC server:\n\n1. Open Emergency Response: Liberty County on Roblox.\n2. Navigate to the private server menu.\n3. Enter the private server code provided in our official Discord channels.\n4. Follow all server rules and instructions.\n\nIf you need assistance, a staff member will help you."
+    },
+    {
+      "keywords": [
+        "how do i verify",
+        "verification",
+        "verify roblox",
+        "verify account"
+      ],
+      "reply": "✅ **Roblox Verification**\n\nTo verify your Roblox account:\n\n1. Navigate to our verification channel.\n2. Click the **Verify** button.\n3. Copy your unique `;verify` command.\n4. Join our ER:LC private server.\n5. Paste the command into the in-game chat.\n\nOnce verification is confirmed, your Roblox account will be linked to Discord."
+    },
+    {
+      "keywords": [
+        "department application",
+        "join a department",
+        "police application",
+        "fire department",
+        "dot application"
+      ],
+      "reply": "🚓 **Department Applications**\n\nInterested in joining one of our departments?\n\nPlease check the department's official recruitment announcements for application availability and requirements.\n\nA department representative can assist with additional questions."
+    },
+    {
+      "keywords": [
+        "promotion",
+        "how do i get promoted",
+        "rank up",
+        "staff promotion"
+      ],
+      "reply": "⭐ **Staff Promotions**\n\nPromotions are determined by authorized leadership based on factors such as activity, professionalism, performance, and contributions.\n\nPromotions are not guaranteed. Please contact your supervisor for further information."
+    },
+    {
+      "keywords": [
+        "donation",
+        "donate",
+        "perks",
+        "support the server"
+      ],
+      "reply": "💎 **Donations & Support**\n\nThank you for your interest in supporting Los Angeles Roleplay!\n\nPlease refer to our official announcements for any available supporter options.\n\nA staff member can clarify current offerings and eligibility."
+    },
+    {
+      "keywords": [
+        "partnership",
+        "partner with",
+        "affiliation",
+        "affiliate"
+      ],
+      "reply": "🤝 **Partnership Requests**\n\nThank you for your interest in partnering with Los Angeles Roleplay!\n\nPlease provide:\n• Your community name\n• Discord invite or community information\n• Member count\n• Reason for requesting a partnership\n\nOur Directorship Team will review your request."
+    },
+    {
+      "keywords": [
+        "how do i become a director",
+        "directorship application",
+        "director application",
+        "join directorship"
+      ],
+      "reply": "👑 **Directorship Inquiries**\n\nDirectorship positions are managed by authorized server leadership.\n\nPlease provide details about your inquiry. A member of the appropriate leadership team will review it."
+    },
+    {
+      "keywords": [
+        "bug",
+        "bot not working",
+        "technical issue",
+        "something is broken"
+      ],
+      "reply": "🔧 **Technical Support**\n\nWe're sorry you're experiencing technical difficulties.\n\nPlease provide:\n• A description of the issue\n• The steps that caused it\n• Any relevant screenshots\n• Whether the issue is still occurring\n\nA staff member will investigate."
+    },
+    {
+      "keywords": [
+        "rules",
+        "server rules",
+        "where are the rules",
+        "roleplay rules"
+      ],
+      "reply": "📖 **Server Rules**\n\nAll members are expected to follow the official Los Angeles Roleplay rules.\n\nPlease review the designated rules channel before participating in a session.\n\nIf you need clarification, a staff member will assist you."
+    },
+    {
+      "keywords": [
+        "inactive",
+        "leave of absence",
+        "loa",
+        "activity requirements"
+      ],
+      "reply": "📅 **Leave of Absence**\n\nIf you need to request a Leave of Absence, please follow the appropriate staff procedures.\n\nProvide your requested start date, end date, and a brief explanation if required.\n\nYour supervisor will review the request."
+    },
+    {
+      "keywords": [
+        "complaint",
+        "file a complaint",
+        "unfair treatment",
+        "bad experience"
+      ],
+      "reply": "📝 **Community Complaints**\n\nThank you for bringing your concern to our attention.\n\nPlease explain what happened, who was involved, and provide any available evidence.\n\nAn authorized staff member will review your concern."
+    },
+    {
+      "keywords": [
+        "ticket close",
+        "close ticket",
+        "resolved",
+        "no longer need help"
+      ],
+      "reply": "✅ **Ticket Resolution**\n\nIf your issue has been resolved, please let the support team know.\n\nAn authorized staff member can close the ticket once assistance is complete.\n\nThank you for contacting Los Angeles Roleplay Support!"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "linkedUsers": {
+    "1557993067091460178": {
+      "robloxId": "11204128991",
+      "robloxUsername": "Magexdusk45",
+      "linkedAt": 1793467683101,
+      "approvedBy": "1557993067091460178"
+    }
+  },
+  "pendingLinks": {},
+  "tickets": {
+    "1566111186414600445": {
+      "owner": "1557993067091460178",
+      "type": "directorship",
+      "claimedBy": null,
+      "answered": [
+        0
+      ],
+      "createdAt": 1793460394887
+    },
+    "1566111226302439547": {
+      "owner": "1406866179750105149",
+      "type": "support",
+      "claimedBy": "1382776903156629646",
+      "answered": [],
+      "createdAt": 1793460404460
+    },
+    "1566111343604408451": {
+      "owner": "1406866179750105149",
+      "type": "report",
+      "claimedBy": null,
+      "answered": [
+        "[\"how do i become a director\",\"directorship application\",\"director application\",\"join directorship\"]",
+        "[\"bug\",\"bot not working\",\"technical issue\",\"something is broken\"]",
+        "[\"how do i verify\",\"verification\",\"verify roblox\",\"verify account\"]"
+      ],
+      "createdAt": 1793460432468
+    }
+  },
+  "session": {
+    "active": false,
+    "startedAt": null,
+    "hostId": null,
+    "messageId": null,
+    "channelId": null,
+    "infoMessageId": "1566137702074679377"
+  },
+  "vote": null,
+  "verifiedUsers": {},
+  "pending": {},
+  "seenCommands": [
+    "1793461352|Remote Server|:pm Magexdusk45 Hello! Welcome to Los Angeles Roleplay! Make sure to join our comms server for the ultimate experience! Code: larpn",
+    "1793461367|Remote Server|:kick Magexdusk45 Server is currently down. Do not join while the server is down.",
+    "1793461537|Remote Server|:pm Kai912327 Hello! Welcome to Los Angeles Roleplay! Make sure to join our comms server for the ultimate experience! Code: larpn",
+    "1793461544|Remote Server|:kick Magexdusk45 Server is currently down. Do not join while the server is down.",
+    "1793461737|Magexdusk45:11204128991|:h Testing logs",
+    "1793462028|Remote Server|:weather clear",
+    "1793462033|Remote Server|:time 10.90",
+    "1793462350|Remote Server|:weather clear",
+    "1793462356|Remote Server|:time 11.00",
+    "1793462638|Remote Server|:weather clear",
+    "1793462644|Remote Server|:time 11.07",
+    "1793462749|Magexdusk45:11204128991|:pm Magexdusk45 Test",
+    "1793462918|Remote Server|:weather clear",
+    "1793462924|Remote Server|:time 11.15",
+    "1793463192|Magexdusk45:11204128991|:load",
+    "1793463227|Remote Server|:weather clear",
+    "1793463233|Remote Server|:time 11.23",
+    "1793463798|Remote Server|:pm ManManiiio44 Hello! Welcome to Los Angeles Roleplay! Make sure to join our comms server for the ultimate experience! Code: larpn",
+    "1793463821|Remote Server|:kick ManManiiio44 Server is currently down. Do not join while the server is down.",
+    "1793463839|Remote Server|:weather clear",
+    "1793463846|Remote Server|:time 11.40",
+    "1793463909|Remote Server|:pm nuttyfreddiefrog Hello! Welcome to Los Angeles Roleplay! Make sure to join our comms server for the ultimate experience! Code: larpn",
+    "1793463914|Remote Server|:kick nuttyfreddiefrog Server is currently down. Do not join while the server is down.",
+    "1793464146|Remote Server|:weather clear",
+    "1793464153|Remote Server|:time 11.50",
+    "1793464432|Remote Server|:weather clear",
+    "1793464438|Remote Server|:time 11.57",
+    "1793464719|Remote Server|:weather clear",
+    "1793464725|Remote Server|:time 11.65",
+    "1793465014|Remote Server|:weather clear",
+    "1793465021|Remote Server|:time 11.73"
+  ],
+  "logsInitialized": true
+}
